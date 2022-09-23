@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<body>
+<footer th:fragment="myFooter" class="test">
+    푸터로 사용되는 영역입니다.
+</footer>
+
+<footer th:fragment="paramFooter (param1, param2)">
+    <p>푸터로 들어오는 파라미터</p>
+    <p th:text="${param1}"></p>
+    <p th:text="${param2}"></p>
+</footer>
+
+</body>
+</html>
