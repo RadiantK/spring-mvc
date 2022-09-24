@@ -8,3 +8,4 @@
 - item-service : 간단한 상품 서비스를 구현하며 스프링 기능 사용
 - thymeleaf-basic : 타임리프의 전반적인 기능 구현
 - form : Thymeleaf를 사용한 form태그 checkbox, radio, select 사용
+- message : 메시지 기능, 국제화 
