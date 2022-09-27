@@ -9,3 +9,6 @@
 - thymeleaf-basic : 타임리프의 전반적인 기능 구현
 - form : Thymeleaf를 사용한 form태그 checkbox, radio, select 사용
 - message : 메시지 기능, 국제화 
+- validation: 스프링 validation
+- login : 로그인 처리(cookie, session, servlet filter, spring interceptor) 사용
+- exception : 예외처리
